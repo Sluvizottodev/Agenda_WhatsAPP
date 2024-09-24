@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013939040609",
+    "project_id": "agenda-mensagem",
+    "storage_bucket": "agenda-mensagem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013939040609:android:80157894f6306cf3d21520",
+        "android_client_info": {
+          "package_name": "com.agendamento_mensagem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKpj64C0jnN8oGP8JYLV3TCqu2a_SbeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
